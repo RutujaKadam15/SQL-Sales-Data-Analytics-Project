@@ -124,3 +124,5 @@ Calculated category contribution to total sales.
 
 Rutuja Kadam  
 AIML Engineer | SQL Developer | Data Analytics
+
+Power BI Project Repository-https://github.com/RutujaKadam15/Power-BI-Sales-Analytics-Project/blob/main/README.md
